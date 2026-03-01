@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class BonusProgram{
     public static void main(String[] args) {
         
-        double bonus=0;
+        double bonus;
         Scanner sc=new Scanner (System.in);
 
         System.out.print("enter your salary: ");
